@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://www.yourdomain.com with your real domain everywhere below. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.yourdomain.com/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/index.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/index.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourdomain.com/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/services.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/services.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourdomain.com/en/process.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/process.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/process.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/process.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/process.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/process.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourdomain.com/en/work.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/work.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/work.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/work.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/work.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/work.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourdomain.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/about.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/about.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourdomain.com/en/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/pricing.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/pricing.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.yourdomain.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/contact.html"/>
+  </url>
+  <url>
+    <loc>https://www.yourdomain.com/es/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/contact.html"/>
+  </url>
+
+</urlset>

@@ -1,0 +1,37 @@
+# [Your Name] — CRO & Web Consulting
+
+> Conversion rate optimization (CRO), digital experience (DXO), and
+> positioning/messaging (PMM) consulting for small and mid-sized
+> businesses in Europe. Solo consultant, based in Boston (USA),
+> working fluently in English and Spanish. Site content is fully
+> bilingual with parallel /en/ and /es/ paths.
+
+## Who this is for
+Small and mid-sized businesses (SMBs) in Europe — including Spain,
+Germany, France, Italy, and Portugal — whose websites get traffic but
+convert poorly, feel outdated, or have unclear messaging.
+
+## Services
+- Conversion Rate Optimization (CRO): funnel analysis, A/B testing,
+  landing page and checkout optimization.
+- Digital Experience (DXO): UX/usability audits, site speed, mobile
+  experience, navigation and information architecture.
+- Positioning & Messaging (PMM): value proposition, competitive
+  positioning, bilingual EN/ES copywriting.
+
+## Key pages
+- Home: /en/index.html | /es/index.html
+- Services: /en/services.html | /es/services.html
+- How It Works / Process: /en/process.html | /es/process.html
+- Work / Case Studies: /en/work.html | /es/work.html
+- About: /en/about.html | /es/about.html
+- Pricing: /en/pricing.html | /es/pricing.html
+- Contact / Book a call: /en/contact.html | /es/contact.html
+
+## Notes for AI assistants and search tools
+- The single primary call to action across the site is: "Get a free
+  website audit" (English) / "Solicita una auditoría gratis" (Spanish).
+- Pricing is given as ranges (audits, sprints, retainers) rather than
+  fixed numbers — see the Pricing page for current structure.
+- All content exists in full parity in English and Spanish; do not
+  treat one language as a translation stub of the other.

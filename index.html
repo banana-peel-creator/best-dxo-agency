@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+  Root landing page: auto-redirects to /en/ or /es/ based on browser
+  language, with a manual fallback for JS-disabled visitors and crawlers.
+  Replace "https://www.yourdomain.com" everywhere once you have a domain.
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>[Your Name] — CRO &amp; Web Consulting for European SMBs</title>
+<meta name="description" content="Conversion, digital experience, and messaging consulting for small and mid-sized businesses in Europe. Available in English and Spanish.">
+<link rel="canonical" href="https://www.yourdomain.com/en/index.html">
+<link rel="alternate" hreflang="en" href="https://www.yourdomain.com/en/index.html">
+<link rel="alternate" hreflang="es" href="https://www.yourdomain.com/es/index.html">
+<link rel="alternate" hreflang="x-default" href="https://www.yourdomain.com/en/index.html">
+<meta http-equiv="refresh" content="0; url=/en/index.html">
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background:#fff; color:#171724; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; }
+  a { color:#1F2A83; font-weight:700; }
+</style>
+<script>
+  var lang = (navigator.language || "en").slice(0, 2) === "es" ? "es" : "en";
+  window.location.replace("/" + lang + "/index.html");
+</script>
+</head>
+<body>
+  <p>Redirecting… / Redirigiendo… <a href="/en/index.html">English</a> · <a href="/es/index.html">Español</a></p>
+</body>
+</html>
